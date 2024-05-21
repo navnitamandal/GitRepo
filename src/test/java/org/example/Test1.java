@@ -8,5 +8,6 @@ public class Test1 {
     public void failedTest() {
         System.out.println("run");
         Assert.assertFalse(true,"failed");
+
     }
 }
